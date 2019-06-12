@@ -1,0 +1,37 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Cursos\Projetos\FaceExpressionLBP\openCVLibrary400pre\src\main\AndroidManifest.xml:2:1-8:12
+INJECTED from D:\Cursos\Projetos\FaceExpressionLBP\openCVLibrary400pre\src\main\AndroidManifest.xml:2:1-8:12
+INJECTED from D:\Cursos\Projetos\FaceExpressionLBP\openCVLibrary400pre\src\main\AndroidManifest.xml:2:1-8:12
+INJECTED from D:\Cursos\Projetos\FaceExpressionLBP\openCVLibrary400pre\src\main\AndroidManifest.xml:2:1-8:12
+INJECTED from D:\Cursos\Projetos\FaceExpressionLBP\openCVLibrary400pre\src\main\AndroidManifest.xml:2:1-8:12
+INJECTED from D:\Cursos\Projetos\FaceExpressionLBP\openCVLibrary400pre\src\main\AndroidManifest.xml:2:1-8:12
+INJECTED from D:\Cursos\Projetos\FaceExpressionLBP\openCVLibrary400pre\src\main\AndroidManifest.xml:2:1-8:12
+	package
+		ADDED from D:\Cursos\Projetos\FaceExpressionLBP\openCVLibrary400pre\src\main\AndroidManifest.xml:3:7-27
+		INJECTED from D:\Cursos\Projetos\FaceExpressionLBP\openCVLibrary400pre\src\main\AndroidManifest.xml
+		INJECTED from D:\Cursos\Projetos\FaceExpressionLBP\openCVLibrary400pre\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from D:\Cursos\Projetos\FaceExpressionLBP\openCVLibrary400pre\src\main\AndroidManifest.xml:5:7-38
+		INJECTED from D:\Cursos\Projetos\FaceExpressionLBP\openCVLibrary400pre\src\main\AndroidManifest.xml
+		INJECTED from D:\Cursos\Projetos\FaceExpressionLBP\openCVLibrary400pre\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Cursos\Projetos\FaceExpressionLBP\openCVLibrary400pre\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from D:\Cursos\Projetos\FaceExpressionLBP\openCVLibrary400pre\src\main\AndroidManifest.xml:4:7-33
+		INJECTED from D:\Cursos\Projetos\FaceExpressionLBP\openCVLibrary400pre\src\main\AndroidManifest.xml
+		INJECTED from D:\Cursos\Projetos\FaceExpressionLBP\openCVLibrary400pre\src\main\AndroidManifest.xml
+uses-sdk
+ADDED from D:\Cursos\Projetos\FaceExpressionLBP\openCVLibrary400pre\src\main\AndroidManifest.xml:7:5-18
+INJECTED from D:\Cursos\Projetos\FaceExpressionLBP\openCVLibrary400pre\src\main\AndroidManifest.xml:7:5-18
+INJECTED from D:\Cursos\Projetos\FaceExpressionLBP\openCVLibrary400pre\src\main\AndroidManifest.xml:7:5-18
+INJECTED from D:\Cursos\Projetos\FaceExpressionLBP\openCVLibrary400pre\src\main\AndroidManifest.xml:7:5-18
+INJECTED from D:\Cursos\Projetos\FaceExpressionLBP\openCVLibrary400pre\src\main\AndroidManifest.xml:7:5-18
+	android:targetSdkVersion
+		INJECTED from D:\Cursos\Projetos\FaceExpressionLBP\openCVLibrary400pre\src\main\AndroidManifest.xml
+		ADDED from D:\Cursos\Projetos\FaceExpressionLBP\openCVLibrary400pre\src\main\AndroidManifest.xml:7:5-18
+		INJECTED from D:\Cursos\Projetos\FaceExpressionLBP\openCVLibrary400pre\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Cursos\Projetos\FaceExpressionLBP\openCVLibrary400pre\src\main\AndroidManifest.xml
+		ADDED from D:\Cursos\Projetos\FaceExpressionLBP\openCVLibrary400pre\src\main\AndroidManifest.xml:7:5-18
+		INJECTED from D:\Cursos\Projetos\FaceExpressionLBP\openCVLibrary400pre\src\main\AndroidManifest.xml
